@@ -1,0 +1,16 @@
+{
+  "name": "es-next-workshop",
+  "version": "1.0.0",
+  "description": "GSic Workshop - esnext",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caridy Patino <caridy@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-esnext": "^0.1.1"
+  }
+}
