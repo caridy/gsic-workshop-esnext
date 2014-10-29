@@ -42,6 +42,25 @@ _note: all 3 editors support ESLint/JSHint plugins, make sure you have one of th
 
 * Optionally, if you don't have a github.com account, make sure you create one https://github.com/join, it is free.
 
+## Aplicación Basica
+
+Clonar e instalar la demo del taller:
+
+```bash
+git clone https://github.com/caridy/gsic-workshop-esnext.git
+cd gsic-workshop-esnext
+npm install
+npm install grunt-cli --global
+grunt
+```
+
+Una vez ejecutado cada uno de esos comandos en la terminal, debemos recibir el siguiente mensaje:
+
+```bash
+Done, without errors.
+```
+
+
 ## Stuck?
 
 Feel free to hit me directly at [@caridy]
